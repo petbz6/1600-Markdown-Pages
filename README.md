@@ -1,1 +1,2 @@
-<h2> About Me </h2>
+# Pierce Terry Markdown Homepage
+[About Me](AboutMe.md)
