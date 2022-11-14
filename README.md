@@ -1,3 +1,3 @@
 # Pierce Terry Markdown Homepage
 <br>
-About Me [About Me](AboutMe.md)
+<a href="AboutMe.html" title="About Me">About Me</a>
