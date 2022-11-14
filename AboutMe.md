@@ -1,3 +1,29 @@
-
-<h2> About Me </h2>
-<p> My name is Pierce Terry. I am 21 years old and a junior majoring in IT at Mizzou. </p>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=2.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="styles2.css">
+</head>
+<body style ="color:Platinum">
+    <h1 align="center">About Me</h1>
+    My name is Pierce Terry, I am 20 years old, I am from St. Louis, Missouri, however, I was originially born in North Carolina, as well as living in Virginia for several years. I am a sophomore at Mizzou and I chose to major in Information Technology because I have always been interested in technology as a whole. I had previously been majoring in history, however, I came to the realization that a career in the tech field would be better suited to my skill set and interests. While I am still a novice and only beginning to understand the fundamentals of IT, I am confident that I will be able to succeed and find myself working in the technological industry in the future.</p>
+    <br>
+    <br>
+    <b>Click on the links below to access other related pages</b>
+    <br>
+    <br>
+    <a href="index.html" title="Home Page">Home Page</a>
+    <br>
+    <a href="quote.html" title="My Favorite Movie">My Favorite Movie</a>
+    <br>
+    <a href="BlockofCode.html" title="Block of Code">Block of Code</a>
+    <br>
+    <a href="Picture.html" title="Picture">Picture</a>
+    <br>
+    <a href="table.html" title="Battles of World War 1">Battles of World War 1</a>
+    <br>
+    <a href="list.html" title="My Top 10 Places in the World">My Top 10 Places in the World</a>
+</body>
+</html>
