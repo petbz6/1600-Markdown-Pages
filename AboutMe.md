@@ -1,3 +1,2 @@
-# Pierce Terry Markdown Homepage
-[About Me](AboutMe.md)
-
+# About Me
+<p> My name is Pierce Terry </p>
