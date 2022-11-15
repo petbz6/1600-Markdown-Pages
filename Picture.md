@@ -2,4 +2,5 @@
 \
 ![Dog](thumbnail_Image.jpg)
 \
-Links to my other markdown pages:\
+Links to my other markdown pages:
+\
