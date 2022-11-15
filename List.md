@@ -8,5 +8,5 @@
   <li> Troy </li>
   </ol>
 [<em> Homepage </em>](README.md)\
-[<em>About Me </em>](AboutMe.md)\
+[<em> About Me </em>](AboutMe.md)\
 [<em>Picture of my Dog</em>](Picture.md)
