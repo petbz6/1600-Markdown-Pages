@@ -6,7 +6,8 @@
   <li> The Dark Knight </li>
   <li> Glory </li>
   <li> Troy </li>
-  </ol>\
+  </ol>
+
 [<em> Homepage </em>](README.md)\
 [<em> About Me </em>](AboutMe.md)\
 [<em>Picture of my Dog</em>](Picture.md)
