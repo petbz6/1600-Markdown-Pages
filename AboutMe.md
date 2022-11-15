@@ -5,4 +5,4 @@
  \
 [<em>My Top 5 Movies</em>](List.md)
 \
-[<em>>Homepage</em>](README.md)
+[<em>Homepage</em>](README.md)
