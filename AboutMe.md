@@ -3,6 +3,9 @@
 
  Links to my other markdown pages: 
  \
+ [<em>Homepage</em>](README.md)
+ \
 [<em>My Top 5 Movies</em>](List.md)
 \
-[<em>Homepage</em>](README.md)
+[<em> Picture of my Dog </em>](
+
