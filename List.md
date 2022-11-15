@@ -3,5 +3,7 @@
 <ol>
 <li> The Last Samurai </li>
   <li> Man of Steel </li>
-  
+  <li> The Dark Knight </li>
+  <li> Glory </li>
+  <li> Troy </li>
   </ol>
