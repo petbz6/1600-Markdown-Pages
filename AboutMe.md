@@ -3,6 +3,6 @@
 
  Links to my other markdown pages: 
  \
-[My Top 5 Movies](List.md)
+[<em>My Top 5 Movies</em>](List.md)
 \
-[Homepage](README.md)
+[<em>>Homepage</em>](README.md)
