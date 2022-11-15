@@ -1,1 +1,1 @@
-![Dog](Thumbnail_image.png)
+![Dog](thumbnail_image.jpg)
