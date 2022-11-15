@@ -7,5 +7,5 @@
  \
 [<em>My Top 5 Movies</em>](List.md)
 \
-[<em> Picture of my Dog </em>](
+[<em> Picture of my Dog </em>](Picture.md)
 
